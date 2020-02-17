@@ -8,4 +8,4 @@ You can find our group R project by clicking [here](https://pjournal.github.io/m
 
 ## Mobile Strategy Game Analysis
 
-You can find my analysis by [here](https://htmlpreview.github.io/?https://github.com/KutayAkalin/Projects/blob/master/Mobile_Strategy_Game_Analysis.html)
+You can find my analysis by clicking [here](https://htmlpreview.github.io/?https://github.com/KutayAkalin/Projects/blob/master/Mobile_Strategy_Game_Analysis.html)
