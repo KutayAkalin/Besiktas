@@ -14,3 +14,7 @@ You can find my analysis by clicking [here](https://htmlpreview.github.io/?https
 
 You can find our group predictions by clicking [here](https://github.com/KutayAkalin/Projects/blob/master/Response%20Prediction%20Using%20Brain%20Signals.ipynb)
 
+## Track Popularity Prediction
+
+You can find my popularity prediction with different algorthims by clicking [here](https://htmlpreview.github.io/?https://github.com/KutayAkalin/Projects/blob/master/Track%20Popularity%20Prediction.html)
+
