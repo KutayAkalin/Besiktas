@@ -20,4 +20,4 @@ You can find my popularity prediction with different ML algorthims by clicking [
 
 ## Audio Classification Using Neural Nets
 
-You can find my classification audios with DNN by clicking [here](https://github.com/KutayAkalin/Projects/blob/master/Audio%20Classification%20Using%20Neural%20Nets.ipynb)
+You can find my audio classification with DNN project by clicking [here](https://github.com/KutayAkalin/Projects/blob/master/Audio%20Classification%20Using%20Neural%20Nets.ipynb)
