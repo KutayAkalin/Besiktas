@@ -16,5 +16,8 @@ You can find our group predictions by clicking [here](https://github.com/KutayAk
 
 ## Track Popularity Prediction
 
-You can find my popularity prediction with different algorthims by clicking [here](https://htmlpreview.github.io/?https://github.com/KutayAkalin/Projects/blob/master/Track%20Popularity%20Prediction.html)
+You can find my popularity prediction with different ML algorthims by clicking [here](https://htmlpreview.github.io/?https://github.com/KutayAkalin/Projects/blob/master/Track%20Popularity%20Prediction.html)
 
+## Audio Classification Using Neural Nets
+
+You can find my classification audios with DNN by clicking [here](https://github.com/KutayAkalin/Projects/blob/master/Audio%20Classification%20Using%20Neural%20Nets.ipynb)
