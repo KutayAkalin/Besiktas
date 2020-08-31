@@ -21,3 +21,7 @@ You can find my popularity prediction with different ML algorthims by clicking [
 ## Audio Classification Using Neural Nets
 
 You can find my audio classification with DNN project by clicking [here](https://github.com/KutayAkalin/Projects/blob/master/Audio%20Classification%20Using%20Neural%20Nets.ipynb)
+
+## Churn Prediciton
+
+You can find out group project for Churn Predictions by clicking [here](https://htmlpreview.github.io/?https://github.com/KutayAkalin/Projects/blob/master/BDA523_Final_Project_KKbox.html)
